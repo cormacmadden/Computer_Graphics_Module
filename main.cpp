@@ -35,6 +35,9 @@ MESH TO LOAD
 ----------------------------------------------------------------------------*/
 // this mesh is a dae file format but you should be able to use any other format too, obj is typically what is used
 // put the mesh in your project directory, or provide a filepath for it here
+
+//test commit
+
 #define MESH_NAME "monkeyhead_smooth.dae"
 Camera camera;
 int width = 1400;
